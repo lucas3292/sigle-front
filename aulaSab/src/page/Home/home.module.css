@@ -1,0 +1,20 @@
+.containerPage{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+  
+}
+.containerHeaderPage{
+    display: flex;
+    justify-content: end;
+    width: 100%;
+    
+}
+
+.containerHeaderButtonPage{
+    width: 20%;
+    height: 40px;
+    
+}

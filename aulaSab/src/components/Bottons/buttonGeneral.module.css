@@ -1,0 +1,17 @@
+.btnStyle{
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+    border: 1px solid black;
+    cursor: pointer;
+    color:black;
+    border-radius: 10px;
+    transition: ease 0.5s;
+    margin-inline: 5px;
+}
+.btnStyle:hover{
+    color: aliceblue;
+    background-color: rgb(73, 73, 210);
+    border: 0px;
+
+}

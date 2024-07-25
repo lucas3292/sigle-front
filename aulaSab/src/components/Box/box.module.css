@@ -1,0 +1,11 @@
+.boxContainer{
+    width: 60vw;
+    min-height: 200px;
+    box-shadow: 1px 1px 8px #c3c1c1;
+    background-color: rgb(204, 227, 247);
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    flex-direction: column;
+
+}
